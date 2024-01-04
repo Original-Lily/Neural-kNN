@@ -2,7 +2,7 @@
 
 **Specifications**
 
-As part of my Introduction to Ai course I was tasked with creating an algorithm, that can accurately read data records from a patients head in order to measure the long term affects of alcahol abuse on the memory. This data would measure 61 different parameters from 200 separate patients in both the training data & the test data, with the desired output for each being a binary 1 or 0.
+As part of my Introduction to Ai course I was tasked with creating an algorithm, that can accurately read data records from patients heads in order to measure the long term affects of alcahol abuse on the memory. This data would measure 61 different parameters from 200 separate patients in both the training data & the test data, with the desired output for each being a binary 1 or 0.
 
 # Deployement
 
