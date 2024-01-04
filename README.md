@@ -29,6 +29,7 @@ Instead of using the previously utilised Euclidean distances, I implemented the 
 Once these features had been implemented my program, it’s performance was much worse than to be expected. This was necessary in order to speed up the processing time for each iteration of my genetic algorithm and maximize time, accuracy efficiency. After significantly reducing the amount of duplicate processing throughout my algorithm and its subsequent O notation, I can say roughly 50,000 repeats can be accomplished in the time it would’ve taken 5,000, in a case without these changes.
 
 **Conclusion drawn from improvements**
+
 In conclusion, I have developed an improved kNN algorithm, providing a 35% – 50% improvement (depending upon the training dataset’s resemblance) and can confidently say this is much more suited to the needs specified. There are other improvements that can be made to this algorithm such as: a more varying K value, or (if permitted) exploring different distance metric calculations I researched such as minkowski or hamming distances.
 
 I conducted a meta-analysis of the data provided and concluded certain columns were guaranteed to be blocked, and could have possibly implemented a variable in order to blacklist these, however this would be hard-coding. A screenshot + link to this standardisted data can be found here.
